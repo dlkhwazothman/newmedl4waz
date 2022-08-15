@@ -3,14 +3,12 @@
 <h1 align="center">Hi 👋, I'm Dlkhwaz Othman</h1>
 <h3 align="center">A passionate Front-End|UI/UX Designer from Kurdistan</h3>
 
+<div align="center">
+<img  alt="Coding" width="400"  src="me.gif" style="tex">  </div>
 
-<img align="center" alt="Coding" width="400"  src="me.gif" style="tex"> 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newmedl4waz&label=Profile%20views&color=0e75b6&style=flat" alt="newmedl4waz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newmedl4waz" alt="newmedl4waz" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
