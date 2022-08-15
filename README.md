@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dlkhwaz Othman</h1>
-<h3 align="center">A passionate Front-End|UI/UX Designer from Kurdistan</h3>
+<h3 align="center">A passionate Front-End | UI/UX Designer from Kurdistan</h3>
 
 <div align="center">
 <img  alt="Coding" width="400"  src="me.gif" style="tex">  </div>
